@@ -30,22 +30,11 @@ I'm an **AI Full Stack Engineer** specializing in end-to-end AI applications, ma
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Activity Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AshminDhungana&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="Ashmin Dhungana's GitHub stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=AshminDhungana" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshminDhungana&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
 
 ---
 
