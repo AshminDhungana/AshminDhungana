@@ -30,12 +30,26 @@ I'm an **AI Full Stack Engineer** specializing in end-to-end AI applications, ma
 
 ---
 
-### 🔥 GitHub Activity Streak
+### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshminDhungana" />
+  <picture>
+    <!-- Light mode -->
+    <source
+      srcset="https://streak-stats.demolab.com?user=AshminDhungana&theme=default&hide_border=true&background=transparent"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- Dark mode -->
+    <source
+      srcset="https://streak-stats.demolab.com?user=AshminDhungana&theme=dark&hide_border=true&background=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=AshminDhungana&hide_border=true&background=transparent"
+      alt="GitHub streak"
+    />
+  </picture>
 </p>
-
 ---
 
 💡 *Open to freelance projects and collaborations*
