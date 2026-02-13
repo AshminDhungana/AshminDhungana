@@ -8,9 +8,9 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
 
 ### 🛠️ Tech Stack
 
-**AI/ML:** Python • TensorFlow • PyTorch • Scikit-learn • LangChain • RAG • Fine-tuning  
+**AI/ML:** Python • PyTorch • Scikit-learn • LangChain • RAG • Fine-tuning  
 **Web Development:** FastAPI • Flask • React • Node.js  
-**Tools & Platforms:** Git • Docker • AWS • Jupyter
+**Tools & Platforms:** Git • Docker • Jupyter
 
 ---
 
