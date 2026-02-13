@@ -1,8 +1,8 @@
 # Hi there, I'm Ashmin Dhungana 👋
 
-### AI Full Stack Engineer | Building Intelligent Applications
+### AI Engineer | Building Intelligent Applications
 
-I'm an **AI Full Stack Engineer** specializing in end-to-end AI applications, machine learning, and web development. With 5+ years of experience in operations and project management, I've transitioned into AI/ML development, building production-ready solutions that solve real-world problems.
+I'm an **AI Engineer** specializing in end-to-end AI applications, machine learning, and web development. With 5+ years of experience in operations and project management, I've transitioned into AI/ML development, building production-ready solutions that solve real-world problems.
 
 ---
 
