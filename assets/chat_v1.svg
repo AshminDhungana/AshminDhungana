@@ -1,0 +1,192 @@
+<svg width="560" height="320" viewBox="0 0 560 320" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap');
+
+      :root {
+        color-scheme: light dark;
+      }
+
+      .bubble-left {
+        fill: #e9e9eb;
+      }
+
+      .bubble-right {
+        fill: #0a84ff;
+      }
+
+      .text-left {
+        fill: #1c1c1e;
+        font-size: 15px;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        letter-spacing: -0.01em;
+      }
+
+      .text-right {
+        fill: #ffffff;
+        font-size: 15px;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        letter-spacing: -0.01em;
+      }
+
+      .label {
+        fill: #8e8e93;
+        font-size: 11px;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        letter-spacing: 0.01em;
+      }
+
+      .emoji {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      }
+
+      /* Dark mode overrides */
+      @media (prefers-color-scheme: dark) {
+        .bubble-left { fill: #3a3a3c; }
+        .text-left { fill: #f2f2f7; }
+        .label { fill: #636366; }
+      }
+
+      /* --- Typing indicators --- */
+      .typing-1 { opacity: 0; animation: fade-in-out 1.4s 0.3s both; }
+      .typing-2 { opacity: 0; animation: wait 2.3s, fade-in-out 1.4s 2.3s both; }
+      .typing-3 { opacity: 0; animation: wait 5s, fade-in-out 1.4s 5s both; }
+      .typing-4 { opacity: 0; animation: wait 8s, fade-in-out 1.4s 8s both; }
+
+      /* --- Messages --- */
+      .msg-1 { opacity: 0; animation: wait 1.7s, pop-in 0.3s 1.7s forwards; }
+      .msg-2 { opacity: 0; animation: wait 3.7s, pop-in 0.3s 3.7s forwards; }
+      .msg-3 { opacity: 0; animation: wait 6.7s, pop-in 0.3s 6.7s forwards; }
+      .msg-4 { opacity: 0; animation: wait 9.7s, pop-in 0.3s 9.7s forwards; }
+
+      .label-1 { opacity: 0; animation: wait 1.9s, fade-up 0.3s 1.9s forwards; }
+      .label-2 { opacity: 0; animation: wait 3.9s, fade-up 0.3s 3.9s forwards; }
+      .label-3 { opacity: 0; animation: wait 6.9s, fade-up 0.3s 6.9s forwards; }
+      .label-4 { opacity: 0; animation: wait 9.9s, fade-up 0.3s 9.9s forwards; }
+
+      @keyframes wait {
+        0%, 100% { opacity: 0; }
+      }
+
+      @keyframes fade-in-out {
+        0%, 100% { opacity: 0; }
+        20%, 80% { opacity: 1; }
+      }
+
+      @keyframes pop-in {
+        0% { opacity: 0; transform: scale(0.9) translateY(4px); }
+        100% { opacity: 1; transform: scale(1) translateY(0); }
+      }
+
+      @keyframes fade-up {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+
+      .dot {
+        animation: pulse 1s ease-in-out infinite;
+      }
+      .dot-2 { animation-delay: 0.2s; }
+      .dot-3 { animation-delay: 0.4s; }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- ===================== ROW 1: Recruiter asks ===================== -->
+
+  <!-- Typing 1 (right side - recruiter) -->
+  <g transform="translate(480, 8)" class="typing-1">
+    <rect x="-78" y="0" width="70" height="36" rx="18" class="bubble-right"/>
+    <circle class="dot" cx="-58" cy="18" r="4" fill="white"/>
+    <circle class="dot dot-2" cx="-45" cy="18" r="4" fill="white"/>
+    <circle class="dot dot-3" cx="-32" cy="18" r="4" fill="white"/>
+    <!-- tail right -->
+    <circle cx="-6" cy="29" r="5" class="bubble-right"/>
+    <circle cx="1" cy="35" r="3" class="bubble-right"/>
+  </g>
+
+  <!-- Msg 1: Recruiter "Hey! Tell me about yourself 👋" -->
+  <g class="msg-1" transform="translate(0,0)">
+    <g transform="translate(310, 8)">
+      <rect width="234" height="36" rx="18" class="bubble-right"/>
+      <text x="14" y="23" class="text-right">Hey! Tell me about yourself 👋</text>
+      <circle cx="240" cy="29" r="5" class="bubble-right"/>
+      <circle cx="247" cy="35" r="3" class="bubble-right"/>
+    </g>
+
+  </g>
+
+  <!-- ===================== ROW 2: Ashmin replies ===================== -->
+
+  <!-- Typing 2 (left side - Ashmin) -->
+  <g transform="translate(10, 68)" class="typing-2">
+    <rect x="8" y="0" width="70" height="36" rx="18" class="bubble-left"/>
+    <circle class="dot" cx="30" cy="18" r="4" fill="#8e8e93"/>
+    <circle class="dot dot-2" cx="43" cy="18" r="4" fill="#8e8e93"/>
+    <circle class="dot dot-3" cx="56" cy="18" r="4" fill="#8e8e93"/>
+    <circle cx="12" cy="29" r="5" class="bubble-left"/>
+    <circle cx="5" cy="35" r="3" class="bubble-left"/>
+  </g>
+
+  <!-- Msg 2: Ashmin intro -->
+  <g class="msg-2" transform="translate(0,0)">
+    <g transform="translate(10, 68)">
+      <rect width="290" height="36" rx="18" class="bubble-left"/>
+      <text x="14" y="24" class="text-left">Hi! I'm <tspan font-weight="600">Ashmin Dhungana</tspan> 👨‍💻</text>
+      <circle cx="-4" cy="20" r="5" class="bubble-left"/>
+      <circle cx="-9" cy="26" r="3" class="bubble-left"/>
+    </g>
+  </g>
+
+  <!-- ===================== ROW 3: What do you build? ===================== -->
+
+  <!-- Typing 3 (right) -->
+  <g transform="translate(480, 150)" class="typing-3">
+    <rect x="-78" y="0" width="70" height="36" rx="18" class="bubble-right"/>
+    <circle class="dot" cx="-58" cy="18" r="4" fill="white"/>
+    <circle class="dot dot-2" cx="-45" cy="18" r="4" fill="white"/>
+    <circle class="dot dot-3" cx="-32" cy="18" r="4" fill="white"/>
+    <circle cx="-6" cy="29" r="5" class="bubble-right"/>
+    <circle cx="1" cy="35" r="3" class="bubble-right"/>
+  </g>
+
+  <!-- Msg 3: Recruiter "What do you build?" -->
+  <g class="msg-3" transform="translate(0,0)">
+    <g transform="translate(320, 150)">
+      <rect width="224" height="36" rx="18" class="bubble-right"/>
+      <text x="14" y="23" class="text-right">Cool! What do you build? 🚀</text>
+      <circle cx="230" cy="29" r="5" class="bubble-right"/>
+      <circle cx="237" cy="35" r="3" class="bubble-right"/>
+    </g>
+  </g>
+
+  <!-- ===================== ROW 4: Ashmin's stack ===================== -->
+
+  <!-- Typing 4 (left) -->
+  <g transform="translate(10, 210)" class="typing-4">
+    <rect x="8" y="0" width="70" height="36" rx="18" class="bubble-left"/>
+    <circle class="dot" cx="30" cy="18" r="4" fill="#8e8e93"/>
+    <circle class="dot dot-2" cx="43" cy="18" r="4" fill="#8e8e93"/>
+    <circle class="dot dot-3" cx="56" cy="18" r="4" fill="#8e8e93"/>
+    <circle cx="12" cy="29" r="5" class="bubble-left"/>
+    <circle cx="5" cy="35" r="3" class="bubble-left"/>
+  </g>
+
+  <!-- Msg 4: Ashmin's skills -->
+  <g class="msg-4" transform="translate(0,0)">
+    <g transform="translate(10, 210)">
+      <rect width="430" height="80" rx="18" class="bubble-left"/>
+      <text x="14" y="26" class="text-left">🤖 LLMs, RAG &amp; fine-tuning with LangChain</text>
+      <text x="14" y="48" class="text-left">⚡ Full-stack AI apps · FastAPI + React</text>
+      <text x="14" y="70" class="text-left">📬 dhungana.ashmin@gmail.com</text>
+      <circle cx="-4" cy="49" r="5" class="bubble-left"/>
+      <circle cx="-9" cy="55" r="3" class="bubble-left"/>
+    </g>
+    <text x="30" y="302" class="label label-4">Ashmin · Open to freelance &amp; collabs</text>
+  </g>
+
+</svg>

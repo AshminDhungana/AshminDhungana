@@ -2,6 +2,10 @@
 
 ### AI Engineer | Building Intelligent Applications
 
+<p align="center">
+  <img src="assets/chat.svg" alt="intro" width="560"/>
+</p>
+
 I'm an **AI Engineer** specializing in end-to-end AI applications, machine learning, and web development. With 5+ years of experience in operations and project management, I've transitioned into AI/ML development, building production-ready solutions that solve real-world problems.
 
 ---
@@ -50,6 +54,36 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
     />
   </picture>
 </p>
+
 ---
 
-💡 *Open to freelance projects and collaborations*
+## 💻 My Favorite Tools & Technologies
+
+<p align="center">
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" title="React" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" title="TypeScript" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5" alt="HTML5" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS3" alt="CSS3" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" title="FastAPI" alt="FastAPI" /></a>&nbsp;&nbsp;
+  <a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" title="GraphQL" alt="GraphQL" /></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" title="PyTorch" alt="PyTorch" /></a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" title="Scikit-learn" alt="Scikit-learn" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL" alt="MySQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" alt="VS Code" /></a>&nbsp;&nbsp;
+  <a href="https://www.langchain.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="40" height="40" title="LangChain" alt="LangChain" /></a>&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" title="GitHub" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://antigravity.google/" target="_blank"><img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" title="Google Antigravity" alt="Google Antigravity" /></a>&nbsp;&nbsp;
+  <a href="https://gemini.google.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="40" height="40" title="Google Gemini" alt="Google Gemini" /></a>
+  <a href="https://openai.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="40" height="40" title="OpenAI" alt="OpenAI" /></a>&nbsp;&nbsp;
+  <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-color.png" width="40" height="40" title="Claude" alt="Claude" /></a>&nbsp;&nbsp;
+
+</p>
+
+---
+
+💡 _Open to freelance projects and collaborations_
