@@ -75,7 +75,6 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" /></a>&nbsp;&nbsp;
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" alt="Git" /></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" alt="VS Code" /></a>&nbsp;&nbsp;
-  <a href="https://www.langchain.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="40" height="40" title="LangChain" alt="LangChain" /></a>&nbsp;&nbsp;
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" title="GitHub" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://antigravity.google/" target="_blank"><img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" title="Google Antigravity" alt="Google Antigravity" /></a>&nbsp;&nbsp;
   <a href="https://gemini.google.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-color.png" width="40" height="40" title="Google Gemini" alt="Google Gemini" /></a>
