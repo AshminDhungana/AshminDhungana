@@ -3,7 +3,12 @@
 ### AI Engineer | Building Intelligent Applications
 
 <p align="center">
-  <img src="assets/chat.svg" alt="intro" width="560"/>
+  <img 
+    src="assets/chat.svg" 
+    alt="Chat Preview"
+    width="100%" 
+    style="max-width:1000px;" 
+  />
 </p>
 
 I'm an **AI Engineer** specializing in end-to-end AI applications, machine learning, and web development. With 5+ years of experience in operations and project management, I've transitioned into AI/ML development, building production-ready solutions that solve real-world problems.
