@@ -14,7 +14,7 @@
 
 <br/>
 
-I'm an **AI Engineer** specializing in end-to-end AI applications, machine learning, and web development. With 5+ years of experience in operations and project management, I've transitioned into AI/ML development, building production-ready solutions that solve real-world problems.
+I'm an **AI Engineer** specializing in end-to-end AI applications, machine learning, and web development building production-ready systems that solve real-world problems.
 
 ---
 
