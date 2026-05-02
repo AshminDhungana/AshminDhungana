@@ -70,20 +70,20 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
 <div align="center">
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)&nbsp;&nbsp;
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)&nbsp;&nbsp;
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)&nbsp;&nbsp;
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)&nbsp;&nbsp;
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)&nbsp;&nbsp;
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)&nbsp;&nbsp;
-[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)&nbsp;&nbsp;
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)&nbsp;&nbsp;
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)&nbsp;&nbsp;
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)&nbsp;&nbsp;
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)&nbsp;&nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)&nbsp;
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)&nbsp;
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)&nbsp;
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)&nbsp;
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)&nbsp;
+[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)&nbsp;
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)&nbsp;
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)&nbsp;
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 
 </div>
