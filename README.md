@@ -20,9 +20,9 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
 
 ### 🛠️ Tech Stack
 
-- **AI/ML:** Python • PyTorch • Scikit-learn • Fine-tuning • Transformers • LangChain • RAG 
-- **Web Development:** React • Node.js • FastAPI • Streamlit • Gradio 
-- **Tools & Platforms:** Git • Docker • Jupyter 
+- **AI/ML:** Python • PyTorch • Scikit-learn • Fine-tuning • Transformers • LangChain • RAG
+- **Web Development:** React • Node.js • FastAPI • Streamlit • Gradio
+- **Tools & Platforms:** Git • Docker • Jupyter
 
 ---
 
