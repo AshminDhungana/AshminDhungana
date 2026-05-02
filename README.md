@@ -65,6 +65,32 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=AshminDhungana&theme=github-light&hide_border=true&bg_color=00000000&area=true" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=AshminDhungana&theme=github-dark&hide_border=true&bg_color=00000000&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshminDhungana&hide_border=true&bg_color=00000000&area=true" alt="Activity Graph" width="100%" />
+  </picture>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshminDhungana/AshminDhungana/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshminDhungana/AshminDhungana/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AshminDhungana/AshminDhungana/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 ## 💻 My Favorite Tools & Technologies
 
 <table align="center" border="0" cellspacing="0" cellpadding="8">
