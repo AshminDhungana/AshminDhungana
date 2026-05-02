@@ -67,24 +67,26 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
 
 ## 💻 My Favorite Tools & Technologies
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
+<table align="center">
   <tr>
-    <td><a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" title="React" alt="React" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript" alt="JavaScript" /></a></td>
-    <td><a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" title="TypeScript" alt="TypeScript" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5" alt="HTML5" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS3" alt="CSS3" /></a></td>
-    <td><a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS" /></a></td>
-    <td><a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python" alt="Python" /></a></td>
-    <td><a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" title="FastAPI" alt="FastAPI" /></a></td>
-    <td><a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" title="GraphQL" alt="GraphQL" /></a></td>
-    <td><a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" title="PyTorch" alt="PyTorch" /></a></td>
-    <td><a href="https://scikit-learn.org" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" title="Scikit-learn" alt="Scikit-learn" /></a></td>
-    <td><a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL" alt="MySQL" /></a></td>
-    <td><a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" /></a></td>
-    <td><a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" alt="Git" /></a></td>
-    <td><a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" alt="VS Code" /></a></td>
-    <td><a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" title="GitHub" alt="GitHub" /></a></td>
+    <td align="center"><a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" title="React" alt="React" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript" alt="JavaScript" /></a></td>
+    <td align="center"><a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" title="TypeScript" alt="TypeScript" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5" alt="HTML5" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS3" alt="CSS3" /></a></td>
+    <td align="center"><a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS" /></a></td>
+    <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python" alt="Python" /></a></td>
+    <td align="center"><a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" title="FastAPI" alt="FastAPI" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" title="GraphQL" alt="GraphQL" /></a></td>
+    <td align="center"><a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" title="PyTorch" alt="PyTorch" /></a></td>
+    <td align="center"><a href="https://scikit-learn.org" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" title="Scikit-learn" alt="Scikit-learn" /></a></td>
+    <td align="center"><a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL" alt="MySQL" /></a></td>
+    <td align="center"><a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" /></a></td>
+    <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git" alt="Git" /></a></td>
+    <td align="center"><a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VS Code" alt="VS Code" /></a></td>
+    <td align="center"><a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" title="GitHub" alt="GitHub" /></a></td>
   </tr>
 </table>
 
