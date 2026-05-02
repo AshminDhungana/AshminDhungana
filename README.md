@@ -79,18 +79,6 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshminDhungana/AshminDhungana/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshminDhungana/AshminDhungana/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AshminDhungana/AshminDhungana/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
-
----
-
 ## 💻 My Favorite Tools & Technologies
 
 <table align="center" border="0" cellspacing="0" cellpadding="8">
