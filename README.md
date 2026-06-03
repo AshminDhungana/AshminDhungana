@@ -46,20 +46,9 @@ I'm an **AI Engineer** specializing in end-to-end AI applications, machine learn
 
 <p align="center">
   <picture>
-    <!-- Light mode -->
-    <source
-      srcset="https://streak-stats.demolab.com?user=AshminDhungana&theme=default&hide_border=true&background=transparent"
-      media="(prefers-color-scheme: light)"
-    />
-    <!-- Dark mode -->
-    <source
-      srcset="https://streak-stats.demolab.com?user=AshminDhungana&theme=dark&hide_border=true&background=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=AshminDhungana&hide_border=true&background=transparent"
-      alt="GitHub streak"
-    />
+    <source srcset="./profile/streak.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="./profile/streak-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="./profile/streak.svg" alt="GitHub streak" />
   </picture>
 </p>
 
